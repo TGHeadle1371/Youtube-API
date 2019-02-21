@@ -1,3 +1,3 @@
 # Youtube-API
 
-Youtube API App with JavaScript, auth2, and Materialize
+Youtube API App with ES6, auth2, and Materialize
